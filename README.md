@@ -15,7 +15,7 @@ Free Software Licenses for Open Source Projects
 
 [Tools](#Tools)
 
-[Code Compare](#Code_Compare)
+[Code Compare](#Code-Compare)
 # Projects:
 ## PHP
 ## C#
