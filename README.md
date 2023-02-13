@@ -1,5 +1,21 @@
 # Free Software Licenses For OSS Projects
 Free Software Licenses for Open Source Projects
+# Quick Links:
+[Projects](#Projects)
+
+[PHP](#PHP)
+
+[C](#C)
+
+[Java](#Java)
+
+[Go](#Go)
+
+[Rust](#Rust)
+
+[Tools](#Tools)
+
+[Code Compare](#Code_Compare)
 # Projects:
 ## PHP
 ## C#
